@@ -1,1 +1,1 @@
-# 4.-OCR-Detection-for-Handwritten-English-Letter-using-ANN
+# OCR-Detection-for-Handwritten-English-Letter-using-ANN
